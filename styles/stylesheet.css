@@ -5,18 +5,18 @@
     font-family: Arial, sans-serif;
     color: #000000; /* black */
     text-align: left;
-    background-color: #90BEDE;
+    background-color: #D2B48C;
   }
   h1 {
     font-size: 1.8em;
     font-weight: bold;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
     width: auto;
     height: auto;
     border: .4em solid #000000;
     padding: 5px;
-    background-color: #90BEDE;
+    background-color: #D2B48C;
   }
 
   body{
@@ -30,8 +30,8 @@
 
   }
   div{
-    background-color: #000000;
-    color: #fff;
+    background-color: #D2B48C;
+    color: #000;
     padding: .5em;
     border-radius: 15px;
     margin-top: 5px;
@@ -40,7 +40,7 @@
 
   }
   a{
-    color: navy;
+    color: #000;
     font-weight: bold;
   }
   li {
