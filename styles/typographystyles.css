@@ -11,22 +11,27 @@
 
 #weight1 {
   /* Change the font-weight property to give it a thin-weight */
+  font-weight: 1
 }
 
 #weight2 {
   /* Change the font-weight property to give it a light-weight */
+  font-weight: 2
 }
 
 #weight3 {
   /* Change the font-weight property to give it a regular-weight */
+  font-weight: 3
 }
 
 #weight4 {
   /* Change the font-weight property to give it a bold-weight */
+  font-weight: 4
 }
 
 #weight5 {
   /* Change the font-weight property to give it a ultra-bold-weight */
+  font-weight: 5
 }``
 
 /*** KERNING & LEADING ASSIGNMENT STYLES ***/
@@ -41,7 +46,9 @@
   width: 800px;
   margin: 0 auto;
 }
-
+#grand_canyon{
+  background-image: 
+}
 #kerning {
   /* Use the letter-spacing property to change the kerning on the text to fill the div below
 
